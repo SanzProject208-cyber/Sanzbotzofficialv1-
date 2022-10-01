@@ -13,6 +13,12 @@ let handler = async (m) => {
     else who = m.sender
     let user = global.db.data.users[who]
 let tqto = `*▸ - - - —「 BIG THANKS TO 」— - - - ◂*
+*❉ Xenji-Chan:*
+https://github.com/XinnChan/stikerinbot
+*❉ JaeXploit:*
+https://github.com/JaeXploit/bot-wa3
+*❉ SanzBotzOfficial:*
+https://github.com/SanzProject208-cyber
 *❉ Adiwajshing:*
 https://github.com/adiwajshing
 *❉ Nurutomo:*
@@ -57,8 +63,15 @@ https://github.com/FahriAdison
 *❉ ImYanXiao:*
 https://github.com/ImYanXiao
 *▸ - - - —「 Thanks For Suhu 」— - - - ◂*
+*❉ SanzBotzOfficial:*
+*❉ HW MODS WA:*
+*❉ Adi Official:*
+*❉ Usep:*
+*❉ Atak Botz:*
+*❉ JaeXploit:*
+*❉ Xenji-Chan:*
 *❉ WH MODS DEV:*
-*❉ Kannachan:*
+*❉ Kannachan:**❉
 *❉ Papah-Chan:*
 *❉ Johannes:*
 *❉ Krisna:*
@@ -66,10 +79,10 @@ https://github.com/ImYanXiao
 
 `
 conn.sendButtonDoc(m.chat, tqto, wm,'Thanks','Bilek', m, { contextInfo: { externalAdReply: { showAdAttribution: true,
-    mediaUrl: "https://Instagram.com/_ctzhid",
+    mediaUrl: "https://Instagram.com/chacaofficial_12",
     mediaType: "VIDEO",
-    description: "https://Instagram.com/_ctzhid", 
-    title: 'WH-MODS-DEV-MultiDevice',
+    description: "https://Instagram.com/chacaofficial_12", 
+    title: 'SANZ-MODS-DEV-MultiDevice',
     body: wm,
     thumbnail: thumb,
     sourceUrl: sgc
