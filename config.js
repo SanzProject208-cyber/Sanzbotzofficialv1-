@@ -30,23 +30,23 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/_ctzhid'
+global.sig = 'https://instagram.com/chacaofficial_12'
 global.sgh = '-' //github
-global.sgc = 'https://chat.whatsapp.com/Iu9I1k8FnXW1sXT41XIF50' //group whatsapp
+global.sgc = 'https://chat.whatsapp.com/Gn1VDmYLSgS1uK6DZTZ2ZW' //group whatsapp
 global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
+global.snh = 'https://youtube.com/channel/UCt4RhubWBWpOpjjcmffPojg' // my youtube channel
 
 /*============== PAYMENT ==============*/
 global.pdana = '089652537228' //dana
 global.povo = '089652537228' //ovo
 global.pgopay = '089652537228' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
+global.plinkaja = '089652537228' //link aja
 global.ppulsa = '089652527228' //telkomsel
 global.ppulsa2 = '089652537228' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/mrw4h1d'
+global.psaweria = 'https://saweria.co/SanzBotzOfficial'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628XXXXXXXXXX'
+global.nomorbot = '6282112396251'
 global.nomorown = '6281212083401'
 global.namebot = 'SANZ-MODS-BOT-V1'
 global.nameown = 'UDIN MODS DEV'
